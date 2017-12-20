@@ -43,8 +43,16 @@
             "url": "https://asset-packagist.org"
         },
         {
-            "url": "https://github.com/davidstutz/bootstrap-multiselect.git",
-            "type": "git"
+            "type": "package",
+            "package": {
+                "name": "davidstutz/bootstrap-multiselect",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/davidstutz/bootstrap-multiselect.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     ]
 }
