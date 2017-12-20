@@ -1,6 +1,12 @@
 {
     "name": "tibee/yii2-multi-select-widget",
     "description": "Multiselect Bootstrap widget for Yii2.",
+    "repositories": [
+        {
+            "url": "https://github.com/davidstutz/bootstrap-multiselect.git",
+            "type": "git"
+        }
+    ],
     "keywords": ["yii", "extension", "widget", "multiselect"],
     "type": "yii2-extension",
     "homepage": "https://github.com/2amigos/yii2-multi-select-widget",
