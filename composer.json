@@ -18,8 +18,8 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
-        "npm-asset/bootstrap-multiselect": "0.9.*",
-        "npm-asset/multiselect": "0.9.*"
+        "npm-asset/bootstrap-multiselect": "dev-master",
+        "npm-asset/multiselect": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
